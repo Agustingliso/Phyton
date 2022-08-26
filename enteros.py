@@ -17,4 +17,3 @@ F.append(elemento)
 i = i + 1
 
 print("\nSALIDA: ")
-
