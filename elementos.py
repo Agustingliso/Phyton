@@ -18,4 +18,4 @@ for elemento in VEC:
 lista_nueva.sort()
 print("\nSALIDA: ")
 
-print(lista_nueva)
+print(lista_nueva) 

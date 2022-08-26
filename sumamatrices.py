@@ -17,7 +17,6 @@ for j in range(R):
  B[i].append( int( input("B{}{}: ".format(i+1,j+1))))
  C[i].append( A[i][j] + B[i][j])
 
-print("\nSALIDA: ")
 
 print(A)
 print(B)

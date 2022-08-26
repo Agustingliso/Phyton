@@ -12,7 +12,7 @@ N = int( input())
 for i in range(N):
  temperatura = float( input("Ingrese Temperatura {0}: ".format(i + 1) ))
 Temp.append(temperatura)
-Suma = Suma + Temp[i]
+Suma = Suma + Temp [i]
 
 Media = Suma / N 
 for tempElement in Temp: 
