@@ -1,4 +1,4 @@
-print ("Ingrese la cantidad de empleados:")
+print ("Cantidad de empleados:")
 ce = int( input())
 
 i = 1
